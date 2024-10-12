@@ -37,8 +37,8 @@ This GitHub profile is just the beginning! I invite you to explore my repositori
 ### 📱 Contact Information
 - 📧 Email: [derouich.nesrin@gmail.com](mailto:derouich.nesrin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nesrine-derouiche)
-- [Facebook](https://www.facebook.com/nesrine.derouiche.94)
-- [Instagram](https://www.instagram.com/nesrine_derouiche/)
+- [Facebook](https://www.facebook.com/derouiche.nesrine)
+- [Instagram](https://www.instagram.com/derouiche.nesrine/)
 - [Upwork](https://www.upwork.com/freelancers/~01f1eea39210f8d4cf?mp_source=share)
 
 Thank you for visiting, and I look forward to connecting with like-minded professionals and collaborators who share my passion for transformative tech solutions.
