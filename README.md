@@ -35,7 +35,7 @@ I completed an internship at **Tunisie Telecom**, where I collaborated with **@f
 This GitHub profile is just the beginning! I invite you to explore my repositories and projects, where I share my journey of continuous improvement and passion for **innovation in software engineering**. Together, let’s shape the future of technology. 🚀
 
 ### 📱 Contact Information
-- 📧 Email: [derouich.nesrin@gmail.com](mailto:derouich.nesrin@gmail.com)
+- 📧 Email: [nesrine.derouiche15@gmail.com](mailto:nesrine.derouiche15@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nesrine-derouiche)
 - [Facebook](https://www.facebook.com/derouiche.nesrine)
 - [Instagram](https://www.instagram.com/derouiche.nesrine/)
