@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/nesrine-github-banner.png" alt="Nesrine Derouiche - Software & Mobile Engineer" width="100%" />
+  <img src="nesrine-github-banner.png" alt="Nesrine Derouiche - Software & Mobile Engineer" width="100%" />
 
 </div>
 
